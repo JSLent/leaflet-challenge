@@ -29,4 +29,4 @@ Layer controls to choose which base map to display and which overlays to show.
 Clone this repository.
 Open the index.html file in a web browser.
 Click into any marker you want to display the key metrics.
-Select alternate map layers to change the map view.
+Select alternate map layers to change the map view, or filter to show either earthquakes, tectonic plates, or both.
